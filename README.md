@@ -1,2 +1,2 @@
 # self-portfolio
-There is my prjects that i will make 
+There is my projects that i will make 
