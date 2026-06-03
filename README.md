@@ -1,2 +1,2 @@
 # self-portfolio
-There is my projects that i will make 
+In this repository i'll make my python projects and update them 
