@@ -17,6 +17,5 @@ python calculator.py
 - Basic arithmetic operations
 - User-friendly interface
 
-## Versions
+## Version
 - **v1.0** - Original implementation
-- **v2.0** (Coming soon) - Enhanced features
